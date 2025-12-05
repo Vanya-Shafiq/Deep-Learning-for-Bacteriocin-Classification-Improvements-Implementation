@@ -1,5 +1,5 @@
 # Deep-Learning-for-Bacteriocin-Classification-BacLABNet  
-## Base Paper Reproduction + Improved Deep Learning Models
+## Base Paper Reproduction + Improvements
 
 This repository contains two complete implementations:
 
