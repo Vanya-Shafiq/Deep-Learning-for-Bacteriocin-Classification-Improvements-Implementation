@@ -8,7 +8,7 @@ This repository contains two complete implementations:
 
 ---
 
-## 📌 Project Summary
+## Project Summary
 
 The goal is to classify protein sequences into:
 
@@ -19,7 +19,7 @@ The base model follows the original research design, while the improved model ad
 
 ---
 
-## 🧪 Base Paper Implementation
+## Base Paper Implementation
 
 The reproduction includes:
 
@@ -35,7 +35,7 @@ Accuracy: **91.47%** with 5-mer + 7-mer + embedding vector combo.
 
 ---
 
-## 🚀 Improvements Added
+## Improvements Added
 
 The improved notebook includes four major enhancements:
 
